@@ -1,0 +1,853 @@
+[general]
+title=Christian Music Vol.1 (1999)
+albums=13
+; you can specify font charset for your national codepage here
+; default value is Russian (204)
+;charset=204
+;
+; you can swap albums' order here by swapping the order of their IDs (short names)
+;
+id1=merryxmas
+id2=maranatha
+id3=25hymns
+id4=30years
+id5=thebook
+id6=praise
+id7=v_krsk
+id8=v_omsk
+id9=calvary
+id10=shout2000
+id11=trio
+id12=sweet
+id13=messiah
+
+;id=v_krsk
+;id=v_omsk
+;id=gracelive
+;id=shout2000
+
+[silver]
+name=Maranatha! Music — The Silver Anniversary Project
+path=Maranatha! Music -- The Silver Anniversary Project
+tracks=25
+[silver_1]
+name=Seek Ye First
+path=01 Seek Ye First.mp3
+[silver_2]
+name=As We Gather
+path=02 As We Gather.mp3
+[silver_3]
+name=Every Time That We Are Gathered
+path=03 Every Time That We Are Gathered.mp3
+[silver_4]
+name=Come Let Us Worship And Bow Down
+path=04 Come Let Us Worship And Bow Down.mp3
+[silver_5]
+name=He Has Made Me Glad
+path=05 He Has Made Me Glad.mp3
+[silver_6]
+name=I Will Celebrate
+path=06 I Will Celebrate.mp3
+[silver_7]
+name=Lord, I Lift Your Name On High
+path=07 Lord, I Lift Your Name On High.mp3
+[silver_8]
+name=He Is Our Peace
+path=08 He Is Our Peace.mp3
+[silver_9]
+name=Cares Chorus
+path=09 Cares Chorus.mp3
+[silver_10]
+name=I Need You
+path=10 I Need You.mp3
+[silver_11]
+name=Open Our Eyes
+path=11 Open Our Eyes.mp3
+[silver_12]
+name=As The Deer
+path=12 As The Deer.mp3
+[silver_13]
+name=Jesus, Draw Me Close
+path=13 Jesus, Draw Me Close.mp3
+[silver_14]
+name=Christ In Us Be Glorified
+path=14 Christ In Us Be Glorified.mp3
+[silver_15]
+name=He Is Able
+path=15 He Is Able.mp3
+[silver_16]
+name=In His Time
+path=16 In His Time.mp3
+[silver_17]
+name=You Have Purchased
+path=17 You Have Purchased.mp3
+[silver_18]
+name=All Honour
+path=18 All Honour.mp3
+[silver_19]
+name=You Are My Hiding Place
+path=19 You Are My Hiding Place.mp3
+[silver_20]
+name=Jesus, Your Name
+path=20 Jesus, Your Name.mp3
+[silver_21]
+name=You Are My God
+path=21 You Are My God.mp3
+[silver_22]
+name=We Declare Your Majesty
+path=22 We Declare Your Majesty.mp3
+[silver_23]
+name=I See The Lord
+path=23 I See The Lord.mp3
+[silver_24]
+name=Glorify Thy Name
+path=24 Glorify Thy Name.mp3
+[silver_25]
+name=I Love You, Lord
+path=25 I Love You, Lord.mp3
+
+[comfort]
+name=Some Comfort From Korean Christians
+path=comfort
+tracks=11
+[comfort_1]
+name=Track 1
+path=comfort01.mp3
+[comfort_2]
+name=Track 2
+path=comfort02.mp3
+[comfort_3]
+name=Track 3
+path=comfort03.mp3
+[comfort_4]
+name=Track 4
+path=comfort04.mp3
+[comfort_5]
+name=Track 5
+path=comfort05.mp3
+[comfort_6]
+name=Track 6
+path=comfort06.mp3
+[comfort_7]
+name=Track 7
+path=comfort07.mp3
+[comfort_8]
+name=Track 8
+path=comfort08.mp3
+[comfort_9]
+name=Track 9
+path=comfort09.mp3
+[comfort_10]
+name=Track 10
+path=comfort10.mp3
+[comfort_11]
+name=Track 11
+path=comfort11.mp3
+
+[v_krsk]
+name=Церковь "Виноградник", г. Красноярск
+path=Vineyard Krasnoyarsk
+tracks=13
+[v_krsk_1]
+path=01.mp3
+name=Я радуюсь Тебе
+[v_krsk_2]
+path=02.mp3
+name=Аллилуйя
+[v_krsk_3]
+path=03.mp3
+name=Мы взываем
+[v_krsk_4]
+path=04.mp3
+name=Как Ты велик!
+[v_krsk_5]
+path=05.mp3
+name=Поклонюсь Тебе
+[v_krsk_6]
+path=06.mp3
+name=Достоин Ты
+[v_krsk_7]
+path=07.mp3
+name=Святость
+[v_krsk_8]
+path=08.mp3
+name=Я хочу
+[v_krsk_9]
+path=09.mp3
+name=Как Ты свят, Господь
+[v_krsk_10]
+path=10.mp3
+name=Тому, чей небо престол
+[v_krsk_11]
+path=11.mp3
+name=Простую песнь любви пою
+[v_krsk_12]
+path=12.mp3
+name=Любовь
+[v_krsk_13]
+path=13.mp3
+name=Будь всегда со мной
+
+[v_omsk]
+name=Церковь "Виноградник", г. Омск
+path=Vineyard Omsk
+tracks=11
+[v_omsk_1]
+name=Зажги огонь опять
+path=1.mp3
+[v_omsk_2]
+name=Твоя любовь
+path=2.mp3
+[v_omsk_3]
+name=Спасибо Тебе
+path=3.mp3
+[v_omsk_4]
+name=Господь, владей, царствуй и правь
+path=4.mp3
+[v_omsk_5]
+name=Буду жить для Тебя
+path=5.mp3
+[v_omsk_6]
+name=Дай склониться перед Тобой
+path=6.mp3
+[v_omsk_7]
+name=Пока я живу
+path=7.mp3
+[v_omsk_8]
+name=Слава Царю царей
+path=8.mp3
+[v_omsk_9]
+name=Лишь Ты один
+path=9.mp3
+[v_omsk_10]
+name=Дождь пролей
+path=a.mp3
+[v_omsk_11]
+name=Иисус
+path=b.mp3
+
+[trio]
+name=Trio One (Instrumental)
+path=Trio One
+tracks=11
+[trio_1]
+name=There Comes To My Heart
+path=trio1_01.mp3
+[trio_2]
+name=In The Garden
+path=trio1_02.mp3
+[trio_3]
+name=Sweet Hour Of Prayer
+path=trio1_03.mp3
+[trio_4]
+name=Did You Pray?
+path=trio1_04.mp3
+[trio_5]
+name=As The Deer
+path=trio1_05.mp3
+[trio_6]
+name=Nearer, My God, To Thee
+path=trio1_06.mp3
+[trio_7]
+name=My Jesus, I Love Thee
+path=trio1_07.mp3
+[trio_8]
+name=Give Thanks
+path=trio1_08.mp3
+[trio_9]
+name=The Lighthouse
+path=trio1_09.mp3
+[trio_10]
+name=Are You Ready, Says The Master
+path=trio1_10.mp3
+[trio_11]
+name=It Is Well With My Soul
+path=trio1_11.mp3
+
+[merryxmas]
+name=Merry Christmas
+path=merryxmas
+tracks=6
+[merryxmas_1]
+name=We wish you a Merry Christmas
+path=merryxmas.mp3
+[merryxmas_2]
+name=Wedding photo
+path=3seconds.mp3
+[merryxmas_3]
+name=MSU Conference 1999
+path=3seconds.mp3
+[merryxmas_4]
+name=Summer Bible Conference 1999
+path=3seconds.mp3
+[merryxmas_5]
+name=Little Ruth Ha
+path=3seconds.mp3
+[merryxmas_6]
+name=Thank you!
+path=3seconds.mp3
+
+[25hymns]
+name=25 Hymns You Love To Sing
+path=25 Hymns You Love To Sing
+tracks=14
+[25hymns_1]
+name=A Mighty Fortress
+path=01 A Mighty Fortress.mp3
+[25hymns_2]
+name=Rock Of Ages
+path=02 Rock Of Ages.mp3
+[25hymns_3]
+name=Savior, Like A Shepherd Lead Us
+path=03 Savior, Like A Shepherd Lead Us.mp3
+[25hymns_4]
+name=What A Friend We Have In Jesus
+path=04 What A Friend We Have In Jesus.mp3
+[25hymns_5]
+name=I Will Arise And Go To Jesus
+path=05 I Will Arise And Go To Jesus.mp3
+[25hymns_6]
+name=Medley - The Blood Of Jesus
+path=06 Medley - The Blood Of Jesus.mp3
+[25hymns_7]
+name=Take My Life And Let It Be
+path=07 Take My Life And Let It Be.mp3
+[25hymns_8]
+name=Joyful, Joyful We Adore Thee
+path=08 Joyful, Joyful We Adore Thee.mp3
+[25hymns_9]
+name=By Thou My Vision
+path=09 By Thou My Vision.mp3
+[25hymns_10]
+name=Blessed Assurance
+path=10 Blessed Assurance.mp3
+[25hymns_11]
+name=O Sacred Head Now Wounded
+path=11 O Sacred Head Now Wounded.mp3
+[25hymns_12]
+name=Come Thou Fount
+path=12 Come Thou Fount.mp3
+[25hymns_13]
+name=Medley - The Name Of Jesus
+path=13 Medley - The Name Of Jesus.mp3
+[25hymns_14]
+name=Just As I Am
+path=14 Just As I Am.mp3
+
+[30years]
+name=30 Years Of Award Winning Music
+path=30 Years Of Award Winning Music
+tracks=15
+[30years_1]
+name=For Future Generations
+path=01 For Future Generations.mp3
+[30years_2]
+name=How Excellent Is Thy Name
+path=02 How Excellent Is Thy Name.mp3
+[30years_3]
+name=Thank You
+path=03 Thank You.mp3
+[30years_4]
+name=I Surrender All
+path=04 I Surrender All.mp3
+[30years_5]
+name=Rise Again
+path=05 Rise Again.mp3
+[30years_6]
+name=El Shaddai
+path=06 El Shaddai.mp3
+[30years_7]
+name=He Touched Me
+path=07 He Touched Me.mp3
+[30years_8]
+name=A Man After Your Own Heart
+path=08 A Man After Your Own Heart.mp3
+[30years_9]
+name=Unbelievable Love
+path=09 Unbelievable Love.mp3
+[30years_10]
+name=Where Do I Go
+path=10 Where Do I Go.mp3
+[30years_11]
+name=Butterfly Kisses
+path=11 Butterfly Kisses.mp3
+[30years_12]
+name=He Is
+path=12 He Is.mp3
+[30years_13]
+name=He's Alive
+path=13 He's Alive.mp3
+[30years_14]
+name=Let's Just Praise The Lord
+path=14 Let's Just Praise The Lord.mp3
+[30years_15]
+name=Place In This World
+path=15 Place In This World.mp3
+
+[thebook]
+name=Songs From "The Book"
+path=Songs From The Book
+tracks=14
+[thebook_1]
+name=The Book
+path=01 The Book.mp3
+[thebook_2]
+name=El Shaddai
+path=02 El Shaddai.mp3
+[thebook_3]
+name=Nothing Is Beyond You
+path=03 Nothing Is Beyond You.mp3
+[thebook_4]
+name=God So Loved
+path=04 God So Loved.mp3
+[thebook_5]
+name=Beauty For Ashes
+path=05 Beauty For Ashes.mp3
+[thebook_6]
+name=One Voice
+path=06 One Voice.mp3
+[thebook_7]
+name=Thy Word
+path=07 Thy Word.mp3
+[thebook_8]
+name=Jesus Is
+path=08 Jesus Is.mp3
+[thebook_9]
+name=He Watches Over You
+path=09 He Watches Over You.mp3
+[thebook_10]
+name=The Word
+path=10 The Word.mp3
+[thebook_11]
+name=Trust
+path=11 Trust.mp3
+[thebook_12]
+name=Sometimes He Comes In The Clouds
+path=12 Sometimes He Comes In The Clouds.mp3
+[thebook_13]
+name=You Are Holy
+path=13 You Are Holy.mp3
+[thebook_14]
+name=My Deliverer
+path=14 My Deliverer.mp3
+
+[calvary]
+name=Give Thanks To The Lord (Calvary Chapel)
+path=Give Thanks To The Lord -- Calvary Chapel
+tracks=10
+[calvary_1]
+name=Give Thanks To The Lord
+path=01 Give Thanks To The Lord.mp3
+[calvary_2]
+name=How I Love You Lord
+path=02 How I Love You Lord.mp3
+[calvary_3]
+name=Sing Hosanna
+path=03 Sing Hosanna.mp3
+[calvary_4]
+name=Teach Me Your Ways
+path=04 Teach Me Your Ways.mp3
+[calvary_5]
+name=Forever
+path=05 Forever.mp3
+[calvary_6]
+name=You Reign Forever
+path=06 You Reign Forever.mp3
+[calvary_7]
+name=As Long As I Live
+path=07 As Long As I Live.mp3
+[calvary_8]
+name=Celebrate
+path=08 Celebrate.mp3
+[calvary_9]
+name=Elohim
+path=09 Elohim.mp3
+[calvary_10]
+name=Praise
+path=10 Praise.mp3
+
+[praise]
+name=Praise And Worship (Integrity Music)
+path=Praise And Worship
+tracks=16
+[praise_1]
+name=Celebrate Jesus
+path=01 Celebrate Jesus.mp3
+[praise_2]
+name=Ancient Of Days
+path=02 Ancient Of Days.mp3
+[praise_3]
+name=Majesty
+path=03 Majesty.mp3
+[praise_4]
+name=Lord, I Lift Your Name On High
+path=04 Lord, I Lift Your Name On High.mp3
+[praise_5]
+name=Victory Chant
+path=05 Victory Chant.mp3
+[praise_6]
+name=Shine, Jesus, Shine
+path=06 Shine, Jesus, Shine.mp3
+[praise_7]
+name=We Bring The Sacrifice Of Praise
+path=07 We Bring The Sacrifice Of Praise.mp3
+[praise_8]
+name=I Worship You Almighty God
+path=08 I Worship You Almighty God.mp3
+[praise_9]
+name=Shout To The Lord
+path=09 Shout To The Lord.mp3
+[praise_10]
+name=Give Thanks
+path=10 Give Thanks.mp3
+[praise_11]
+name=Glorify Thy Name
+path=11 Glorify Thy Name.mp3
+[praise_12]
+name=I Exalt Thee
+path=12 I Exalt Thee.mp3
+[praise_13]
+name=More Precious Than Silver
+path=13 More Precious Than Silver.mp3
+[praise_14]
+name=As The Deer
+path=14 As The Deer.mp3
+[praise_15]
+name=Change My Heart, Oh God
+path=15 Change My Heart, Oh God.mp3
+[praise_16]
+name=Blessed Be The Lord God Almighty
+path=16 Blessed Be The Lord God Almighty.mp3
+
+[shout2000]
+name=Shout To The Lord, by Darlene Zschech and friends
+path=Shout To The Lord -- Darlene Zschech
+tracks=16
+[shout2000_1]
+name=Can't Stop Talking
+path=01 Can't Stop Talking.mp3
+[shout2000_2]
+name=Friends In High Places
+path=02 Friends In High Places.mp3
+[shout2000_3]
+name=God Is In The House
+path=03 God Is In The House.mp3
+[shout2000_4]
+name=All Things Are Possible
+path=04 All Things Are Possible.mp3
+[shout2000_5]
+name=Jesus Is Alive
+path=05 Jesus Is Alive.mp3
+[shout2000_6]
+name=Breathe On Me
+path=06 Breathe On Me.mp3
+[shout2000_7]
+name=My Heart Will Trust
+path=07 My Heart Will Trust.mp3
+[shout2000_8]
+name=The Potter's Hand
+path=08 The Potter's Hand.mp3
+[shout2000_9]
+name=Love You So Much
+path=09 Love You So Much.mp3
+[shout2000_10]
+name=That's What We Came Here For
+path=10 That's What We Came Here For.mp3
+[shout2000_11]
+name=My Redeemer Lives
+path=11 My Redeemer Lives.mp3
+[shout2000_12]
+name=God Is Good
+path=12 God Is Good.mp3
+[shout2000_13]
+name=Shout To The Lord
+path=13 Shout To The Lord.mp3
+[shout2000_14]
+name=Glory To The King
+path=14 Glory To The King.mp3
+[shout2000_15]
+name=Eagle's Wings
+path=15 Eagle's Wings.mp3
+[shout2000_16]
+name=Hear Our Praises
+path=16 Hear Our Praises.mp3
+
+[maranatha]
+name=In His Grace, by the Maranatha Choir
+path=In His Grace -- The Maranatha Choir
+tracks=18
+[maranatha_1]
+name=Sing We Now Of Christmas
+path=01 Sing We Now Of Christmas.mp3
+[maranatha_2]
+name=A Merry Carol Of The Bells
+path=02 A Merry Carol Of The Bells.mp3
+[maranatha_3]
+name=In The Bleak Midwinter
+path=03 In The Bleak Midwinter.mp3
+[maranatha_4]
+name=Carol Of The Drum
+path=04 Carol Of The Drum.mp3
+[maranatha_5]
+name=What Did You Say Was The Baby's Name
+path=05 What Did You Say Was The Baby's Name.mp3
+[maranatha_6]
+name=He Still Came
+path=06 He Still Came.mp3
+[maranatha_7]
+name=Ding, Dong, Merrily On High
+path=07 Ding, Dong, Merrily On High.mp3
+[maranatha_8]
+name=Mary Did You Know
+path=08 Mary Did You Know.mp3
+[maranatha_9]
+name=Glory To God In The Highest
+path=09 Glory To God In The Highest.mp3
+[maranatha_10]
+name=Psalms 139
+path=10 Psalms 139.mp3
+[maranatha_11]
+name=I Know, I Know
+path=11 I Know, I Know.mp3
+[maranatha_12]
+name=Kumbaya
+path=12 Kumbaya.mp3
+[maranatha_13]
+name=Lamb Of God
+path=13 Lamb Of God.mp3
+[maranatha_14]
+name=River In Judea
+path=14 River In Judea.mp3
+[maranatha_15]
+name=He Leadeth Me
+path=15 He Leadeth Me.mp3
+[maranatha_16]
+name=How Beautiful
+path=16 How Beautiful.mp3
+[maranatha_17]
+name=Soli Deo Gloria
+path=17 Soli Deo Gloria.mp3
+[maranatha_18]
+name=May You Grow In His Likeness
+path=18 May You Grow In His Likeness.mp3
+
+[gracelive]
+name=Grace Live 1998 at Grace University Music
+path=Grace Live 1998 -- Grace University Music
+tracks=15
+[gracelive_1]
+name=Personent Hodie
+path=01 Personent Hodie.mp3
+[gracelive_2]
+name=Betelehemu
+path=02 Betelehemu.mp3
+[gracelive_3]
+name=Domine Ad Adjuvandum Me Festina
+path=03 Domine Ad Adjuvandum Me Festina.mp3
+[gracelive_4]
+name=View Me, Lord
+path=04 View Me, Lord.mp3
+[gracelive_5]
+name=Glorious Things Of Thee Are Spoken
+path=05 Glorious Things Of Thee Are Spoken.mp3
+[gracelive_6]
+name=Adagio Ma Non Tanto
+path=06 Adagio Ma Non Tanto.mp3
+[gracelive_7]
+name=This Little Light Of Mine
+path=07 This Little Light Of Mine.mp3
+[gracelive_8]
+name=Canzona no.2
+path=08 Canzona no.2.mp3
+[gracelive_9]
+name=Joshua
+path=09 Joshua.mp3
+[gracelive_10]
+name=Higher Ground
+path=10 Higher Ground.mp3
+[gracelive_11]
+name=Fanfare Prelude On Hanover
+path=11 Fanfare Prelude On Hanover.mp3
+[gracelive_12]
+name=Symphonic Dance no.3 Fiesta
+path=12 Symphonic Dance no.3 Fiesta.mp3
+[gracelive_13]
+name=The Stars And Stripes Forever
+path=13 The Stars And Stripes Forever.mp3
+[gracelive_14]
+name=Ev'ry Time I Feel The Spirit
+path=14 Ev'ry Time I Feel The Spirit.mp3
+[gracelive_15]
+name=Create In Me
+path=15 Create In Me.mp3
+
+[sweet]
+name=Sweet Was The Song, by Max van Egmond
+path=Sweet Was The Song -- Max van Egmond
+tracks=22
+[sweet_1]
+name=Veni, Veni Emmanuel
+path=01 Veni, Veni Emmanuel.mp3
+[sweet_2]
+name=On Christmas Night
+path=02 On Christmas Night.mp3
+[sweet_3]
+name=Noel nouvelet
+path=03 Noel nouvelet.mp3
+[sweet_4]
+name=O Jesulein suss
+path=04 O Jesulein suss.mp3
+[sweet_5]
+name=Von Himmel hoch
+path=05 Von Himmel hoch.mp3
+[sweet_6]
+name=Coventry Carol
+path=06 Coventry Carol.mp3
+[sweet_7]
+name=Infant Holy, Infant Lowly
+path=07 Infant Holy, Infant Lowly.mp3
+[sweet_8]
+name=The Angel Gabriel
+path=08 The Angel Gabriel.mp3
+[sweet_9]
+name=What Child Is This
+path=09 What Child Is This.mp3
+[sweet_10]
+name=Nu zijt wellekome
+path=10 Nu zijt wellekome.mp3
+[sweet_11]
+name=Sweet Was The Song The Virgin Sung
+path=11 Sweet Was The Song The Virgin Sung.mp3
+[sweet_12]
+name=Angels We Have Heard On High
+path=12 Angels We Have Heard On High.mp3
+[sweet_13]
+name=Riu riu chiu
+path=13 Riu riu chiu.mp3
+[sweet_14]
+name=In Dulci Jubilo
+path=14 In Dulci Jubilo.mp3
+[sweet_15]
+name=Let All The Mortal Flesh Keep Silence
+path=15 Let All The Mortal Flesh Keep Silence.mp3
+[sweet_16]
+name=I Saw Three Ships
+path=16 I Saw Three Ships.mp3
+[sweet_17]
+name=Joseph Dearest, Joseph Mine
+path=17 Joseph Dearest, Joseph Mine.mp3
+[sweet_18]
+name=Patapan
+path=18 Patapan.mp3
+[sweet_19]
+name=Quelle est cette odeur agreable
+path=19 Quelle est cette odeur agreable.mp3
+[sweet_20]
+name=Noel en dialogue
+path=20 Noel en dialogue.mp3
+[sweet_21]
+name=Lo, How A Rose E'er Blooming
+path=21 Lo, How A Rose E'er Blooming.mp3
+[sweet_22]
+name=Masters In This Hall
+path=22 Masters In This Hall.mp3
+
+[gaither]
+name=Hymn Classics, by the Bill Gaither Trio
+path=The Bill Gaither Trio
+tracks=13
+[gaither_1]
+name=What A Friend We Have In Jesus
+path=01 What A Friend We Have In Jesus.mp3
+[gaither_2]
+name=I Will Sing The Wondrous Story
+path=02 I Will Sing The Wondrous Story.mp3
+[gaither_3]
+name=My Jesus, I Love Thee
+path=03 My Jesus, I Love Thee.mp3
+[gaither_4]
+name=God Leads Us Along
+path=04 God Leads Us Along.mp3
+[gaither_5]
+name=Blessed Assurance
+path=05 Blessed Assurance.mp3
+[gaither_6]
+name=Medley Of Favorite Hymns
+path=06 Medley Of Favorite Hymns.mp3
+[gaither_7]
+name=O King Of Heaven
+path=07 O King Of Heaven.mp3
+[gaither_8]
+name=It Is Well With My Soul
+path=08 It Is Well With My Soul.mp3
+[gaither_9]
+name=Great Is Thy Faithfulness
+path=09 Great Is Thy Faithfulness.mp3
+[gaither_10]
+name=Tis' So Sweet To Trust In Jesus
+path=10 Tis' So Sweet To Trust In Jesus.mp3
+[gaither_11]
+name=Does Jesus Care
+path=11 Does Jesus Care.mp3
+[gaither_12]
+name=Going Home
+path=12 Going Home.mp3
+[gaither_13]
+name=When I Survey The Wondrous Cross
+path=13 When I Survey The Wondrous Cross.mp3
+
+[messiah]
+name=The Messiah, by George Frederick Handel
+path=The Messiah -- George Frederick Handel
+tracks=17
+[messiah_1]
+name=Comfort Ye My People
+path=01 Comfort Ye My People.mp3
+[messiah_2]
+name=Ev'ry Valley Shall Be Exalted
+path=02 Ev'ry Valley Shall Be Exalted.mp3
+[messiah_3]
+name=And The Glory Of The Lord
+path=03 And The Glory Of The Lord.mp3
+[messiah_4]
+name=Behold, A Virgin Shall Conceive
+path=04 Behold, A Virgin Shall Conceive.mp3
+[messiah_5]
+name=O Thou That Tellest Good Tidings
+path=05 O Thou That Tellest Good Tidings.mp3
+[messiah_6]
+name=For Unto Us A Child Is Born
+path=06 For Unto Us A Child Is Born.mp3
+[messiah_7]
+name=And Suddenly There Was With The Angel
+path=07 And Suddenly There Was With The Angel.mp3
+[messiah_8]
+name=Glory To God
+path=08 Glory To God.mp3
+[messiah_9]
+name=Rejoice Greatly
+path=09 Rejoice Greatly.mp3
+[messiah_10]
+name=Behold, The Lamb Of God
+path=10 Behold, The Lamb Of God.mp3
+[messiah_11]
+name=He Was Despised And Rejected
+path=11 He Was Despised And Rejected.mp3
+[messiah_12]
+name=All We Like Sheep
+path=12 All We Like Sheep.mp3
+[messiah_13]
+name=Hallelujah!
+path=13 Hallelujah!.mp3
+[messiah_14]
+name=I Know That My Redeemer Liveth
+path=14 I Know That My Redeemer Liveth.mp3
+[messiah_15]
+name=The Trumpet Shall Sound
+path=15 The Trumpet Shall Sound.mp3
+[messiah_16]
+name=Worthy Is The Lamb That Was Slain
+path=16 Worthy Is The Lamb That Was Slain.mp3
+[messiah_17]
+name=Amen
+path=17 Amen.mp3

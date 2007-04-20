@@ -1,0 +1,1 @@
+pkzip -saudio \audio\@\delphi\audio.zip *.bat *.dpr *.dfm *.pas *.res *.dof *.ico *.inf *.htm *.ini *.dll *.lng *.iss *.txt
