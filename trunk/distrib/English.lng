@@ -1,0 +1,93 @@
+[translations]
+MainForm.OpenButton.Hint = 'Open CD album - O'
+MainForm.LocateButton.Hint = 'Locate current track's position - L'
+MainForm.RatingButton.Hint = 'Rate current track/album - R'
+MainForm.PrevButton.Hint = 'Previous - Z'
+MainForm.PlayButton.Hint = 'Play - X'
+MainForm.PauseButton.Hint = 'Pause/Resume - C'
+MainForm.StopButton.Hint = 'Stop - V'
+MainForm.NextButton.Hint = 'Next - B'
+MainForm.RepeatButton.Hint = 'Repeat on/off - R'
+MainForm.PlayModeButton.Hint = 'Playing mode - T/A/D/S'
+;
+MainForm.VolumeSlider.Hint = Set output volume
+MainForm.Slider.Hint = Set playing position in track
+;
+MainForm.FileMenu.Caption = &File
+MainForm.OpenAlbumMenu.Caption = &Open CD album...
+MainForm.MemoryMenu.Caption = &Memory usage
+MainForm.ExitMenu.Caption = E&xit
+;
+MainForm.ControlsMenu.Caption = &Controls
+MainForm.PrevMenu.Caption = &Z - Previous
+MainForm.PlayMenu.Caption = &X - Play
+MainForm.PauseMenu.Caption = &C - Pause/Resume
+MainForm.StopMenu.Caption = &V - Stop
+MainForm.NextMenu.Caption = &B - Next
+MainForm.LocateMenu.Caption = &L - Locate current track's position
+MainForm.RatingMenu.Caption = &R - Rate current track/album
+;
+MainForm.PlayOptionsMenu.Caption = Play &options
+MainForm.poTrackMenu.Caption = &T - Play one track
+MainForm.poAlbumMenu.Caption = &A - Play one album
+MainForm.poWholeDiscMenu.Caption = &D - Play the whole disc
+MainForm.poShuffleMenu.Caption = &S - Shuffle
+MainForm.poRepeatMenu.Caption = &R - Repeat on/off
+;
+MainForm.HelpMenu.Caption = &Help
+MainForm.DocMenu.Caption = &Documentation
+MainForm.AboutMenu.Caption = &About...
+;
+MainForm.PlayOneSongMenu.Caption = T - play one track	
+MainForm.PlayOneAlbumMenu.Caption = A - play one album
+MainForm.PlayWholeDiscMenu.Caption = D - play the whole disc
+MainForm.PlayRandomMenu.Caption = S - shuffle
+;
+MainForm.CopyMenu.Caption = Copy selection to clipboard
+MainForm.RefreshMenu.Caption = Refresh this window (F5)
+MainForm.FontBiggerMenu.Caption = Increase font (gray +)
+MainForm.FontSmallerMenu.Caption = Decrease font (gray -)
+;
+RatingForm.RatingsRadioGroup.Caption = Rating
+RatingForm.RatingsGroupBox.Caption = General options
+RatingForm.RatingsCheckBox.Caption = &Use ratings during playback
+RatingForm.RatingsCheckBox.Hint = This parameter is for current session only
+RatingForm.OKButton.Caption = &Apply
+RatingForm.CancelButton.Caption = &Cancel
+;
+[messages]
+HelpFile = album.htm
+;
+AlbumText = ALBUM
+TrackText = TRACK
+RatingText = RATING
+;
+BadRating = Bad
+NotBadRating = Not bad
+GoodRating = Good
+VeryGoodRating = Very good
+BestRating = Best
+DefaultRating = default rating
+;
+PlayFromBadRating = Play all tracks
+PlayFromNotBadRating = Play not bad and better tracks
+PlayFromGoodRating = Play good and better tracks
+PlayFromVeryGoodRating = Play from very good tracks
+PlayFromBestRating = Play only the best tracks
+;
+tagInfoText = Information about this track
+tagNoInfo = no info
+tagTitleText = Title
+tagArtistText = Artist
+tagAlbumText = Album
+tagYearText = Year
+;
+BrowseDirCaption = Please select a CD album directory
+BrowseDirTitle = It is good to have ALBUM.INI in your directory
+CouldNotSaveRatings = Could not save ratings to registy. Please try again later.
+ErrorPlayingFile = Error playing file %s. Maybe an audio decoder for this file type should be installed. Please read the documentation.
+CouldNotFind = Could not find %s
+LoadingRatings = Loading ratings from Windows registry. Please be patient...
+SavingRatings = The program will now finish. Please be patient while we save ratings of %d tracks to Windows registry. Unfortunately, this task may be slow if your registry grew big and/or is not optimized.
+;
+Statistics = In this CD Album we have %d tracks in %d albums.

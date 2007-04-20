@@ -1,0 +1,93 @@
+[translations]
+MainForm.OpenButton.Hint = 'Открыть CD альбом - O'
+MainForm.LocateButton.Hint = 'Найти запись на дереве - L'
+MainForm.RatingButton.Hint = 'Дать оценку записи/альбому - R'
+MainForm.PrevButton.Hint = 'Назад - Z'
+MainForm.PlayButton.Hint = 'Играть - X'
+MainForm.PauseButton.Hint = 'Пауза/возобновление - C'
+MainForm.StopButton.Hint = 'Стоп - V'
+MainForm.NextButton.Hint = 'Вперед - B'
+MainForm.RepeatButton.Hint = 'Вкл/выкл режима повтора - R'
+MainForm.PlayModeButton.Hint = 'Режимы проигрывания - T/A/D/S'
+;
+MainForm.VolumeSlider.Hint = Установить уровень громкости
+MainForm.Slider.Hint = Установить текущую позицию в записи
+;
+MainForm.FileMenu.Caption = Файл
+MainForm.OpenAlbumMenu.Caption = Открыть CD альбом...
+MainForm.MemoryMenu.Caption = Использование памяти
+MainForm.ExitMenu.Caption = Выход
+;
+MainForm.ControlsMenu.Caption = Управление
+MainForm.PrevMenu.Caption = &Z - Назад
+MainForm.PlayMenu.Caption = &X - Играть
+MainForm.PauseMenu.Caption = &C - Пауза/возобновление
+MainForm.StopMenu.Caption = &V - Стоп
+MainForm.NextMenu.Caption = &B - Вперед
+MainForm.LocateMenu.Caption = &L - Найти запись на дереве
+MainForm.RatingMenu.Caption = &R - Дать оценку записи/альбому
+;
+MainForm.PlayOptionsMenu.Caption = Проигрывание
+MainForm.poTrackMenu.Caption = &T - Играть одну запись
+MainForm.poAlbumMenu.Caption = &A - Играть один альбом
+MainForm.poWholeDiscMenu.Caption = &D - Играть весь диск
+MainForm.poShuffleMenu.Caption = &S - Играть в случайном порядке
+MainForm.poRepeatMenu.Caption = &R - Вкл/выкл режима повтора
+;
+MainForm.HelpMenu.Caption = Помощь
+MainForm.DocMenu.Caption = Документация
+MainForm.AboutMenu.Caption = О программе
+;
+MainForm.PlayOneSongMenu.Caption = T - играть 1 запись
+MainForm.PlayOneAlbumMenu.Caption = A - играть 1 альбом
+MainForm.PlayWholeDiscMenu.Caption = D - играть весь диск
+MainForm.PlayRandomMenu.Caption = S - играть случайно
+;
+MainForm.CopyMenu.Caption = Копировать в буфер
+MainForm.RefreshMenu.Caption = Обновить содержимое окна (F5)
+MainForm.FontBiggerMenu.Caption = Увеличить шрифт (серый +)
+MainForm.FontSmallerMenu.Caption = Уменьшить шрифт (серый -)
+;
+RatingForm.RatingsRadioGroup.Caption = Оценка
+RatingForm.RatingsGroupBox.Caption = Общие параметры
+RatingForm.RatingsCheckBox.Hint = Это параметр действует только в одном сеансе программы
+RatingForm.RatingsCheckBox.Caption = Использовать оценки
+RatingForm.OKButton.Caption = Применить
+RatingForm.CancelButton.Caption = Отмена
+;
+[messages]
+HelpFile = albumrus.htm
+;
+AlbumText = АЛЬБОМ
+TrackText = ЗАПИСЬ
+RatingText = ОЦЕНКА
+;
+BadRating = Неудовл.
+NotBadRating = Удовлетв.
+GoodRating = Хорошо
+VeryGoodRating = Очень хорошо
+BestRating = Лучшее
+DefaultRating = по умолчанию
+;
+PlayFromBadRating = Играть все
+PlayFromNotBadRating = Играть, начиная с удовл. дорожек
+PlayFromGoodRating = Играть, начиная с хороших дорожек
+PlayFromVeryGoodRating = Играть, начиная с очень хороших
+PlayFromBestRating = Играть только самое лучшее
+;
+tagInfoText = Информация о текущей записи
+tagNoInfo = не указано
+tagTitleText = Название
+tagArtistText = Автор/исполнитель
+tagAlbumText = Альбом
+tagYearText = Год
+;
+BrowseDirCaption = Укажите, пожалуйста, путь к CD-альбому
+BrowseDirTitle = Хорошо иметь файл ALBUM.INI в выбираемой директории
+CouldNotSaveRatings = Не могу сохранить рейтинге в реестре. Попробуйте, пожалуйста, еще раз.
+ErrorPlayingFile = Не могу играть файл %s. Возможно, нужно установить аудио-декодер для этого типа файлов. Пожалуйста, обратитесь к документации.
+CouldNotFind = Не могу найти %s
+LoadingRatings = Программа загружает оценки из реестра Windows. Пожалуйста, будьте терпеливы...
+SavingRatings = Программа сейчас завершит работу. Будьте терпеливы, пока в реестр сохраняются оценки %d записей. К сожалению, эта операция может быть медленной, если объем реестра Windows велик и/или реестр не оптимизирован.
+;
+Statistics = Количество записей: %d; количество альбомов: %d.

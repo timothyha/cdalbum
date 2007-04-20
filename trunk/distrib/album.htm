@@ -1,0 +1,252 @@
+<html>
+<body bgcolor=#c0c0ff text=black link=red vlink=red alink=red>
+
+<!-- greeting -->
+
+<p>
+<font face="Verdana,Arial" size=-1>
+<h2><font color=white>"CD Album" version 1.5</font></h2>
+<P align=left>Congratulations! You now own a copy of the "CD Album" freeware.
+:o) The main purpose of this software is to serve as a player for CD albums,
+which are recorded on Data CDs. A CD album (in our terms)
+is a collection of musical albums saved in MPEG-3 format. Usually a musical
+CD can hold only one album, but a data CD can hold up to 10-12 albums in MPEG-3 format!
+
+<p>
+Usually CD albums are CDs that
+automatically start to play when you insert them into your CD drive. CD
+albums created for use with our software can come with song lyrics,
+pictures and other information, nicely designed in HTML. HTML has become a
+standard for designing documentation, and/so you will have a lot of freedom to
+design your musical CD albums.
+
+<P>You can also use "CD Album" to browse and play MPEG-3 files, which are stored
+on your hard disks or CDs. As a player, "CD Album" has all standard features
+like sequential or random playback, continuous (repeated) play, and a unique
+feature of <B>rating </B>your tracks. Ratings are stored in Windows
+registry, so each time you can choose songs of some average rating
+according to your mood and feelings.
+<p>
+
+<h3><font color=white>0. System requirements</font></h3>
+
+CD Album 1.5 uses Windows system codecs (decoders/encoders) to decode MP3 music.
+A standard MP3 decoder
+comes with Windows Media Player from Internet Explorer 4.0/5.0 (or higher). So if
+your system is Windows 98 or Internet Explorer is updated, then everything is OK.
+If you don't have Internet Explorer 4.0/5.0 (or higher), then please install it.
+Anyway, if you don't want to use MSIE, you can still run <b>mpfull.exe</b> from
+<b>[setup]</b> subdirectory (if you received our software on a CD)
+to install Windows Media Player.
+<p>
+If you create a CD album with WAV files coded in MPEG Layer 3 format, then you must
+distribute <b>wav_mp3.exe</b> in <b>[setup]</b> subdirectory, so that the program
+can install a necessary Windows system decoder.
+<p>
+
+<h3><font color=white>1. How to play CD albums</font></h3>
+
+If a CD album was correctly created to use with our software, then when the program
+starts, you will see a tree of albums' and songs' titles on the left. On the right
+there may be HTML pages displaying lyrics, pictures and additional information.
+If there is no HTML file for such information, a short description of the MPEG-3
+file will appear.
+<p>
+
+Playback can be controlled from menu, toolbar and keyboard.
+As for the menu items and toolbar buttons, everything should be intuitive enough
+for you to use. We will give a short description for each button of the toolbar.
+From left to right buttons are:
+
+<p><b>Open:</b> opens a new CD album in some directory of your disks or CDs
+
+<p><b>Locate:</b> locates the current track's position in tree.
+When you are listening to a track, you can click the mouse on tree items and view other albums' and tracks' information. And, if you "get lost", then in order to return to the current track's position (and lyrics), you must use this command
+
+<p><b>Rating:</b> sets a rating for selected track or album. If you clicked this button
+on an album's title, the rating you choose will be set for all tracks in the album.
+
+<p><b>Previous, Play, Pause, Stop, Next:</b> standard buttons for playback
+
+<p><b>Repeat on/off:</b> this turns repeat mode on/off (the recycled arrows mean repeat is ON)
+
+<p><b>Range of playback:</b> one track, one album, all albums or shuffled (random) play
+
+<P>
+
+If you prefer to control playback from keyboard, you can use the following keys
+(we have implemented them a`&nbsp;la famous MPEG-3 player WinAMP):
+
+<p>Z/X/C/V/B are five keys which correspond to Prev/Play/Pause/Stop/Next on the
+button toolbar. Note that pressing [Enter] or double-clicking on a track's
+title will play that track just like pressing X. [Spacebar] can work for both Play
+and Pause buttons. If the player's not playing, it will start the playback. If the
+player's playing, it will toggle pause/resume.
+
+<p>D/A/T/S control the range of playback: whole [D]isc, one [A]lbum, one [T]rack or
+[S]huffled (random) play.
+
+<p>R controls [R]epeating. If playback's range is whole disc, one album or one track then
+that range will be repeated forever, until you change this mode. Only note that
+repeated play cannot
+be combined with shuffled random play. If random play is selected, then repeat option
+will be ignored.
+
+<p>L is for [L]ocating current track's position in tree.
+
+<p>O is for [O]pening a new album to play. It may be another disc or just a directory
+where its sub-directories contain MPEG-3 files. Please read further about creating CD albums
+to understand the structure your directory should have. For short, the album's directory
+is a set of sub-directories containing MPEG-3 files. It may have <b>album.ini</b>
+information file and HTML-designed pages, or not.
+
+<p>Gray +/-:
+When you are viewing songs' lyrics, the font size may be too small or too large for you.
+You can use "gray" keys on the right of your keyboard, plus (+) and minus (-) to change the font
+size. Please also see the context menu of the browser window by right-clicking any place in it.
+As you can see, text in browser window can also be selected and copied to clipboard.
+The Refresh function
+of the browser can be invoked by F5. This feature is especially useful
+when you are creating and designing your CD album (you can preview your work),
+a matter discussed in the next part of documentation .
+
+<p>"/" (slash) works for Ratings button. Note that when you specify some criteria for rated play, Prev/Next buttons will play previous or next tracks that suit the rating level. And repeated or
+shuffled play will also work only among the songs of a same or higher level of rating that you specified in Ratings window.
+
+<p>Esc: When you use ratings, sometimes the program cycles a long period of time
+to find next song that fits your rating criteria, so you might want to stop the process.
+If so, you can press ESC to stop it.
+
+<p><b>Special note:</b> Ratings are turned off each time the program starts. Even though songs' ratings are stored in Windows registry, when you start the program, it will not use ratings, unless you open Ratings window and check "Use ratings during playback". This is not a bug, but a feature :o) because, being human, our tastes may vary from time to time. Sometimes we might want to listen to all songs, and sometimes only to very best ones. You can change the rating of some particular song any time you like, and this new rating will be automatically stored in Windows registry.
+
+<p>
+
+<h3><font color=white>2. How to create a CD album</font></h3>
+
+First, prepare your MPEG-3 files, using some "CD rippers" like CDex or MusicMatch Jukebox.
+Files playable in "CD Album" can have extension MP3 or WAV, but WAV files should be coded
+in MPEG Layer 3 format.
+Then, save files for a CD album in some directory, for example [Main], each musical
+album in its own subdirectory: [Main\Subdir1], [Main\Subdir2], etc.
+<p>
+
+Now in each sub-album's directory you must write a configuration file <B>album.ini</B>, 
+from which "CD Album" will know the track titles and the title of the sub-album.
+You can use utility <b>playlist.exe</b> from our software pack. Just run the following
+command:
+
+<pre>
+playlist "directory-name"
+</pre>
+
+or place playlist.exe into PATH and run playlist.exe from the sub-album's directory.
+In directory  [Main]  of the CD album, please place <B>album.ini</B> 
+with information of the following kind:
+
+<pre>
+[general]
+title=Christian Music Collection, Volume 1 (1999)
+charset=204
+</pre>
+
+Parameter <B>charset</B> specifies the character codepage for the program window. This is
+necessary in case you translate the program into another language by putting a new <b>*.LNG</b>
+(please see english.lng and russian.lng for an example). By default, charset=204, so if you
+don't need to translate the program to some language other than English or Russian, you can omit
+this parameter.
+<p>
+
+Track titles, specified in <b>name</b> parameter in sub-albums' album.ini,
+will appear in the albums/songs tree on the left. 
+Physical path from <b>path</b> is the filename of MPEG-3 file with that track.
+In the sub-album's [general] section, you can also use a special feature of
+<b>volume normalizing</b>. Because MPEG-3 files
+you select for your CD album may come from many different sources, their
+volumes can differ greatly. But in album.ini you can normalize the volume by setting
+"volume=..." parameter for each album. By default, volume is 100 (percents). If the
+album is twice as loud as others, you can set volume=50. But if the album is 20%
+more quiet, you can set volume=125 (100/80=1.25).
+
+<p>
+HTML files for each album must be located in subdirectory [html] of the album's subdirectory,
+for example, [Main\Subdir1\html]. The main file must be named <b>index.htm</b>
+(you can have several files pointing to each other). If index.htm contains lyrics, you
+can force "CD Album" player to jump to current track's lyrics when it starts to play.
+For this purpose, lyrics of the track must be in index.htm with a link of type
+<b>&lt;a&nbsp;name=""&gt;</b>. For example:
+<pre>
+&lt;a name="3"&gt;
+&lt;h2&gt;Lord, You are precious&lt;/h2&gt;
+Lord, You are more precious than silver&lt;br&gt;
+Lord, You are more precious than gold
+</pre>
+(3 if this is track number 3 in album).
+<p>
+That's all for creating files to use in "CD Album". To make a CD, you must have a CD Recorder. :o)
+In the root directory, please put the following files from our software pack:
+<B>album.exe</B>, <B>album.htm</B>, <B>albumrus.htm</B>,
+<B>album.ico</B>, <B>autorun.inf</B>, <B>playlist.exe</B>,
+and also <B>album.ini</B>, which is the configuration file
+you created for your CD album.
+Please also copy the subdirectory <b>[setup]</b>,
+which contains setup files for Windows codecs
+that we talked about in section "0. System requirements."
+
+<p>And now... May be, the most interesting feature of "CD Album" is that,
+if root directory of the CD
+contains a subdirectory called <b>[postcard]</b> with a HTML page,
+it will be displayed at the top of this help file.
+So you can CUSTOMIZE each CD you create. For example, if you are preparing Christmas gifts
+for your friends, you can create for each of them a
+nice postcard in <b>[postcard]</b> with their names.
+So they'll be nicely surprised and no one will have the same copy of your Christmas album!
+
+<p>We wish you happy moments using CD albums, playing (and creating) them!
+And, if you have created a good musical album and want to share it with us :o)
+just find us by email. That would be the greatest thanksgiving
+you may give to us for our labor on creating this software for you.
+If you are not able to do it at the moment, then just send us
+a MP3 collection or any ordinary musical CD you like :o)
+
+<p>From the authors, T.N.R.H.<br>
+Christmas 1999/2000
+
+<p>P.S. Bugs report and suggestions are welcomed at <B>freeware@bible.ru</B>
+or ICQ number 8801791.
+
+<p>
+<h3><font color=white>3. Thanks &amp; credits</font></h3>
+
+We thank <b>GOD</b> and our Lord <b>JESUS CHRIST</b>
+and all Christian artists who created and performed beautiful Christian music for which
+this software was specially designed. We also thank all brothers and sisters in our church who supported the idea of creating this software.
+<p>
+Special thanks go to:
+<p>0) Inprise (Borland), who created Delphi; <b>www.inprise.com</b>
+<p>1) David Baldwin, who created THTMLView (THTMLLite, a freeware edition
+of it, is used in this program). THTMLView is an excellent Delphi component
+for full HTML 3.2 support; <b>www.pbear.com</b>
+<p>2) Jordan Russell, who created ToolBar97, an Office97-style toolbar component
+for Delphi. We're using this component in virtually any of our Delphi programs.
+<b>www.jordanr.dhs.org</b>
+
+<p>
+<h3><font color=white>4. Other projects</font></h3>
+
+Visit our site at <b>www.bible.ru/freeware</b> for more freeware. Especially
+try out BibleQuote at <b>www.bible.ru/biblequote</b> — it's our freeware
+Bible tool, which includes Russian, English and more Bible translations with search
+capabilities, cross references and more.
+<p>
+<B>Note:</B> It might be already recorded on this CD with our software
+(if you received our software on a CD).
+Please check if your CD has a <b>[bible]</b> subdirectory.
+The file <b>bqt.exe</b> will install BibleQuote and others will install additional Bible
+translations and books to use in BibleQuote.
+
+<p>
+<br>
+Timothy, Natasha and Ruth Ha.
+<br><br><br><br></p></font>
+</body>
+</html>
