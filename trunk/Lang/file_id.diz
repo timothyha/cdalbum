@@ -1,0 +1,1 @@
+TLanguage component is used to add international language support to existing and being developing Delphi projects. TLanguage stores all language-specific string values in separate INI files, one for each language, that adds your users ability to create their own translations of your program interface.

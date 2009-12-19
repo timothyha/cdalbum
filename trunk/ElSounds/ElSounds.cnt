@@ -1,0 +1,62 @@
+:BASE ElSounds.hlp
+:TITLE 
+:INCLUDE DELPHI3.CFG
+1 TElSException exception
+2 TElSException exception Reference=Scribble1010
+1 TElPlayer component
+2 TElPlayer component Reference=Scribble1100
+2 Properties
+3 About=Scribble1110
+3 BuffersCount=Scribble1115
+3 BufferSize=Scribble1120
+3 EndPos=Scribble1125
+3 Extensions=Scribble1130
+3 Initialized=Scribble1135
+3 InputMode=Scribble1140
+3 InputName=Scribble1145
+3 LeftVolume=Scribble1150
+3 ModuleName=Scribble1155
+3 OutputDevNum=Scribble1160
+3 OutputMode=Scribble1165
+3 OutputName=Scribble1170
+3 PathToDLL=Scribble1175
+3 Paused=Scribble1180
+3 PlayerMode=Scribble1185
+3 Position=Scribble1190
+3 Priority=Scribble1195
+3 RightVolume=Scribble1200
+3 Size=Scribble1205
+3 StartPos=Scribble1210
+3 Version=Scribble1215
+2 Methods
+3 CanSetVolume=Scribble1220
+3 GetInfo1=Scribble1225
+3 GetInfo2=Scribble1230
+3 Close=Scribble1235
+3 Deinit=Scribble1240
+3 Init=Scribble1245
+3 InitStream=Scribble1250
+3 Open=Scribble1255
+3 Pause=Scribble1260
+3 Play=Scribble1265
+3 Resume=Scribble1270
+3 Stop=Scribble1275
+2 Events
+3 OnInputClose=Scribble1280
+3 OnInputGetSize=Scribble1285
+3 OnInputOpen=Scribble1290
+3 OnInputRead=Scribble1295
+3 OnInputSeek=Scribble1300
+3 OnOutput=Scribble1305
+3 OnOutputDone=Scribble1310
+3 OnOutputInit=Scribble1315
+1 TElPlayers object
+2 TElPlayers object Reference=Scribble1400
+2 Properties
+3 Items=Scribble1410
+2 Methods
+3 Add=Scribble1415
+1 TElPlayerMan component
+2 TElPlayerMan component Reference=Scribble1500
+2 Properties
+3 Players=Scribble1515

@@ -1,0 +1,27 @@
+[DSP upload]
+Filename=lang.zip
+Replacements=lang.zip
+Version=1.0
+FileURL=
+Description=TLanguage component is used to add international language support to existing and being developing Delphi projects. TLanguage stores all language-specific string values in separate INI files, one for each language, that adds your users ability to create their own translations of your program interface.
+Delphi 1.0=Y
+Delphi 2.0=Y
+Delphi 3.0=Y
+Delphi 4.0=Y
+C++Builder 1.0=N
+File Status=Freeware
+Full Source=Included
+Category=Components Collection
+Note=The TLanguage component was developed to add international language support to Shareware Centrum -- the #1 tool for shareware programmers to track users and reported bugs, register purchases, shareware archive uploads and much more. If you like TLanguage component -- please support the author and download Shareware Centrum from http://members.tripod.com/~sushko/sc/.
+Additional info=Text file ( extension txt )
+[DSP Support]
+DSP Support=Y
+[Versions available]
+Delphi 1.0=
+Delphi 2.0=
+Delphi 3.0=
+C++Builder 1.0=
+[Uploader]
+Author name=Serge Sushko
+Author E-mail=sushko@iname.com
+Author URL=http://members.tripod.com/~sushko/

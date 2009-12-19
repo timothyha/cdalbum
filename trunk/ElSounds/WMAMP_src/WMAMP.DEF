@@ -1,0 +1,46 @@
+LIBRARY "WMAMP.ESP"
+
+EXPORTS
+        ESClose
+        ESOpen
+        ESInitModule
+        ESDeInitModule
+        ESPause
+        ESResume
+        ESPlay
+        ESStop
+        ESSetPos
+        ESGetPos
+        ESLastError
+        ESGetAbout
+        ESGetVersion
+        ESGetPlayerMode
+        ESSetInputName
+        ESSetOutputName
+        ESSetInputMode
+        ESSetOutputMode
+        ESSetOutputDev    
+        ESGetSize
+        ESSetPriority
+        ESSetLimits
+        ESSetBuffers    
+        ESSetOutCB
+        ESGetInfo1
+                ESGetInfo2
+        ESInitStream
+                ESGetExts
+        ESSetInCB
+        ESGetName
+                ESGetVolume
+                ESSetVolume
+                ESCanSetVolume
+                ESSetDevNum
+                ESSetExtras
+                ESCanPause
+                ESCanSetPos
+                ESSetWindow
+                ESUseOutCB
+        ESUseEQ
+        ESHasEQ
+        ESEQ
+
