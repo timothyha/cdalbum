@@ -39,11 +39,11 @@ MaxStackSize=1048576
 ImageBase=4194304
 ExeDescription=
 [Directories]
-OutputDir=e:\audio
+OutputDir=
 UnitOutputDir=
 PackageDLLOutputDir=
 PackageDCPOutputDir=
-SearchPath=e:\delphi\toolbar97;e:\delphi\elsounds;e:\delphi\htmllite\delphi5;e:\delphi\elsounds\slider;e:\delphi\browsedir;e:\delphi\language;e:\delphi\thtml\package
+SearchPath=.\BrowseDir;.\elsounds;.\Lang;.\TB97\Source;.\Thtml\package
 Packages=vclx30;VCL30;vcldb30;vcldbx30;VclSmp30;Qrpt30;teeui30;teedb30;tee30;dss30;IBEVNT30
 Conditionals=
 DebugSourceDirs=
@@ -80,8 +80,9 @@ Comments=Player for mp3 CD collections with "autorun"
 Count=1
 Item0=WinTypes=Windows;WinProcs=Windows;DbiTypes=BDE;DbiProcs=BDE;DbiErrs=BDE;
 [HistoryLists\hlSearchPath]
-Count=1
-Item0=e:\delphi\toolbar97;e:\delphi\elsounds;e:\delphi\htmllite\delphi5;e:\delphi\elsounds\slider;e:\delphi\browsedir;e:\delphi\language;e:\delphi\thtml\package
+Count=2
+Item0=.\BrowseDir;.\elsounds;.\Lang;.\TB97\Source;.\Thtml\package
+Item1=
 [HistoryLists\hlOutputDirectorry]
 Count=1
-Item0=e:\audio
+Item0=

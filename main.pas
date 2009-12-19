@@ -1645,6 +1645,7 @@ var
   Ini: TIniFile;
   found: boolean;
 begin
+{
   found := false;
 
   Ini := TIniFile.Create('system.ini');
@@ -1676,6 +1677,7 @@ begin
     ShellExecute(Application.Handle, nil, PChar(ExePath + 'setup\wav_mp3.exe'),
     nil, nil, SW_NORMAL);
   end;
+}
 end;
 
 procedure TMainForm.VolumeDownMenuClick(Sender: TObject);
